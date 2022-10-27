@@ -933,6 +933,10 @@ body {
     }
 }
 
+.waving {
+    display: inline-block;
+}
+
 .waving:before {
     content: attr(data-hover);
 }
